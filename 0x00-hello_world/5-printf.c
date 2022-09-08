@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+/**
+ * main - Printing in C
+ *
+ * Return: Always 0(Successful)
+ */
+
+int main(void)
+{
+        puts("with proper grammar, but the outcome is a piece of art, \n");
+        return (0);
+} 
